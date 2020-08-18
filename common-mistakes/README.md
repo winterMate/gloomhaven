@@ -6,4 +6,4 @@ My wife Sonja did the majority of the translation, I just did some corrections a
 This translation is based on the english version v1.2 from July 12, 2018
 
 ## References
-- [BGG|Files|"Gloomhaven Common Mistakes](https://boardgamegeek.com/filepage/165743/gloomhaven-common-mistakes)
+- [BGG|Files|"Gloomhaven Common Mistakes"](https://boardgamegeek.com/filepage/165743/gloomhaven-common-mistakes)
