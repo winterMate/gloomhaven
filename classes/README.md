@@ -1,6 +1,10 @@
 # Gloomhaven - List of all character classes - Liste aller Charakterklassen
 This is a listing of ALL **SPOILERS** character classes of Gloomhaven and Gloomhaven Forgotten Circles with their german and english names. This comes in handy when researching online.
 
+## List of all character classes with icons - Liste aller Charakterklassen mit Symbolen
+- [`all-classes-en-de.pdf`](./all-classes-en-de.pdf)
+- [`all-classes-en-de.odt`](./all-classes-en-de.odt)
+
 ## List of all character classes - Liste aller Charakterklassen
 ### Start Charakterklassen / Starting character classes
 
@@ -13,7 +17,7 @@ This is a listing of ALL **SPOILERS** character classes of Gloomhaven and Gloomh
 | Schurkin | Scoundrel |
 | Felsenherz | Cragheart |
 
-### Charakterklassen die zunächst freigespielt werden müssen / Character classes to unlock
+### Charakterklassen die freigespielt werden müssen / Character classes to unlock
 
 | german | english |
 |--------|---------|
