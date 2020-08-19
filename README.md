@@ -2,6 +2,7 @@
 Useful(?) stuff for the fantastic dungeon crawler board game Gloomhaven.
 
 ## Content
+- [Gloomhaven Miniature base labels - Minaturensockel Labels](./miniature-base-labels/)
 - [Gloomhaven Common Mistakes v1.2 - German Version](./common-mistakes/)
 - [Gloomhaven List of ALL Summons - German/English Versions](./summons/)
 - [Gloomhaven List of ALL Classes - German/English Versions](./classes/)
